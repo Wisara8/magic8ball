@@ -13,7 +13,7 @@ class BallPage extends StatelessWidget {
       backgroundColor: Colors.blue,
       appBar: AppBar(
         title: Text("Ask me anything"),
-        backgroundColor: Colors.blue.shade500,
+        backgroundColor: Colors.blue.shade900,
       ),
       body: Container(),
     );
